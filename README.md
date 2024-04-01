@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Vladi!
-🚀 Enthusiastic developer on a mission for open source and tech innovation.<br>💻 Crafting clean and efficient code is my obsession.<br>🌱 Lifelong learner with a burning passion for data science 📊.<br>✈️ I'm an adventurer at heart, exploring new places, swimming, and running in my free time.<br>💬 Ask me anything—I thrive on answering questions!<br>🤝 Let's connect and create something amazing together. Let's turn data into groundbreaking ideas!<br>🌍 I work remotely, bringing my skills and passion to projects from anywhere.<br>⚡ Fun fact: I have lived in 5 different countries !
+🚀 Enthusiastic developer on a mission for open source and tech innovation.<br>💻 Crafting clean and efficient code is my obsession.<br>🌱 Lifelong learner with a burning passion for data science 📊.<br>✈️ I'm an adventurer at heart, exploring new places, swimming, and running in my free time.<br>💬 Ask me anything—I thrive on answering questions!<br>🤝 Let's connect and create something amazing together.<br>🌍 I work remotely, bringing my skills and passion to projects from anywhere.<br>⚡ Fun fact: I have lived in 5 different countries !
 
 
 # 💻 Tech Stack:
